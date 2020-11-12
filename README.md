@@ -1,8 +1,8 @@
 <p  align="left">
-<img  alt="GitHub language count"  src="https://img.shields.io/github/languages/count/viniciusad/template">
-<img  alt="Repository size"  src="https://img.shields.io/github/repo-size/viniciusad/template">
+<img  alt="GitHub language count"  src="https://img.shields.io/github/languages/count/viniciusad/IGTI-bootcamp">
+<img  alt="Repository size"  src="https://img.shields.io/github/repo-size/viniciusad/IGTI-bootcamp">
 <a  href="https://github.com/viniciusad/README-ecoleta/commits/master">
-<img  alt="GitHub last commit"  src="https://img.shields.io/github/last-commit/viniciusad/template">
+<img  alt="GitHub last commit"  src="https://img.shields.io/github/last-commit/viniciusad/IGTI-bootcamp">
 </a>
 <img  alt="License"  src="https://img.shields.io/badge/license-MIT-brightgreen">
 <a  href="https://github.com/viniciusad/template/stargazers">
