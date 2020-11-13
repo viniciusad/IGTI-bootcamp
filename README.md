@@ -10,8 +10,8 @@
 </a>
 </p>
 
-## 💻 Sobre
-Desafio Final do Bootcamp IGTI
+## 💻 Resumo
+Aqui vou reunir o material que desenvolvi no decorrer do Bootcamp Desenvolvedor Python, do IGTI.
 
 
 ## 📧 Contato
