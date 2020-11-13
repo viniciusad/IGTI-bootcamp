@@ -10,7 +10,7 @@
 </a>
 </p>
 
-## 💻 Início
+## 💻 Sobre
 Desafio Final do Bootcamp IGTI
 
 
