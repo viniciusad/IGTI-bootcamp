@@ -15,4 +15,4 @@ Desafio Final do Bootcamp IGTI
 
 
 ## 📧 Contato
-[![Twitter Badge](https://img.shields.io/badge/-@viniciusad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniciusad)](https://twitter.com/viniciusad) [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusad/)](https://www.linkedin.com/in/viniciusad/)
+# [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusad/)](https://www.linkedin.com/in/viniciusad/)
